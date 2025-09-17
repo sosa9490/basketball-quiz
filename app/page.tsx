@@ -59,7 +59,7 @@ const quizData = [
     id: 'q4',
     title: 'Guarding the popper: stunt & recover',
     clipUrl: '/clips/popper_stunt_recover.mp4',
-    question: 'What coverage is the defense using here against the popper?',
+    question: 'How is the defense guarding the popper in this clip?',
     options: ['Full rotation', 'Switch', 'Stunt and recover', 'Zone collapse'],
     correctIndex: 2,
     explanation:
