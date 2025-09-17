@@ -39,7 +39,7 @@ const quizData = [
     id: 'q2',
     title: 'Sink and fill',
     clipUrl: '/clips/sink_and_fill_v2.mp4',
-    question: 'What type of interior rotation are Jamal Murray and Jeremy Grant executing?',
+    question: 'What type of rotation are Jamal Murray and Jeremy Grant executing?',
     options: ['Trap', 'Sink and fill', 'Switch', 'Zone shift'],
     correctIndex: 1,
     explanation:
@@ -49,8 +49,8 @@ const quizData = [
     id: 'q3',
     title: 'Guarding the popper: full rotation',
     clipUrl: '/clips/popper_full_rotation.mp4',
-    question: 'How is the defense guarding the popper in this clip?',
-    options: ['Switching the screen', 'Full rotation', 'Stunt and recover', 'No rotation (late contest from original defender)'],
+    question: 'How is the off-ball defender guarding the popper in this clip?',
+    options: ['Zone collapse', 'Full rotation', 'Stunt and recover', 'No rotation (late contest from original defender)'],
     correctIndex: 1,
     explanation:
       'A full rotation means an off-ball defender fully commits to contest the popper’s shot, while the rest of the defense rotates to cover the open players.',
@@ -59,7 +59,7 @@ const quizData = [
     id: 'q4',
     title: 'Guarding the popper: stunt & recover',
     clipUrl: '/clips/popper_stunt_recover.mp4',
-    question: 'How is the defense guarding the popper in this clip?',
+    question: 'How is the off-ball defender guarding the popper in this clip?',
     options: ['Full rotation', 'Switch', 'Stunt and recover', 'Zone collapse'],
     correctIndex: 2,
     explanation:
